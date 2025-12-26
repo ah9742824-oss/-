@@ -4,60 +4,103 @@
   <meta charset="UTF-8">
   <title>عرض التقارير</title>
 
-  <style>
-    body {
-      margin: 0;
-      background: #f3f4f6;
-      font-family: "Segoe UI", Tahoma, Arial;
-      direction: rtl;
-    }
+  <style><style>
+  body {
+    margin: 0;
+    background: #f1f5f9;
+    font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+    direction: rtl;
+    color: #0f172a;
+  }
 
-    header {
-      background: #0f172a;
-      color: white;
-      padding: 20px;
-      text-align: center;
+  header {
+    background: linear-gradient(135deg, #0f172a, #1e293b);
+    color: white;
+    padding: 20px 15px;
+    text-align: center;
+  }
+
+  header h1 {
+    margin: 0;
+    font-size: 24px;
+  }
+
+  .container {
+    max-width: 1000px;
+    margin: 20px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+  }
+
+  /* فهرس المحتويات */
+  .toc {
+    background: #f8fafc;
+    padding: 15px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+  }
+
+  .toc h3 {
+    margin-top: 0;
+    font-size: 18px;
+  }
+
+  .toc a {
+    display: block;
+    padding: 8px 6px;
+    margin: 4px 0;
+    color: #2563eb;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: 8px;
+  }
+
+  .toc a:active {
+    background: #e0e7ff;
+  }
+
+  /* النص */
+  pre {
+    white-space: pre-wrap;
+    word-break: break-word;
+    line-height: 2;
+    font-size: 18px;       /* خط أكبر */
+    background: #ffffff;
+    padding: 10px;
+    border-radius: 12px;
+  }
+
+  footer {
+    text-align: center;
+    padding: 15px;
+    font-size: 14px;
+    color: #64748b;
+  }
+
+  /* تحسين الموبايل */
+  @media (max-width: 600px) {
+    header h1 {
+      font-size: 20px;
     }
 
     .container {
-      max-width: 1100px;
-      margin: 25px auto;
-      background: white;
-      padding: 30px;
-      border-radius: 14px;
-      box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+      padding: 15px;
+      margin: 10px;
     }
 
     pre {
-      white-space: pre-wrap;
-      line-height: 1.9;
-      font-size: 15px;
+      font-size: 19px;     /* أكبر على الموبايل */
+      line-height: 2.1;
     }
 
-
-
-
-
-.toc {
-  background: #f1f5f9;
-  padding: 15px;
-  border-radius: 10px;
-  margin-bottom: 20px;
-}
-
-.toc a {
-  display: block;
-  margin: 6px 0;
-  color: #2563eb;
-  font-weight: bold;
-  text-decoration: none;
-}
-
-.toc a:hover {
-  text-decoration: underline;
-}
-
-
+    .toc a {
+      font-size: 17px;
+    }
+  }
+</style>
 
 
   </style>
