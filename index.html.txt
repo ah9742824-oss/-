@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>عرض التقارير</title>
+
+  <style>
+    body {
+      margin: 0;
+      background: #f3f4f6;
+      font-family: "Segoe UI", Tahoma, Arial;
+      direction: rtl;
+    }
+
+    header {
+      background: #0f172a;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 26px;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 25px auto;
+      background: white;
+      padding: 30px;
+      border-radius: 14px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+    }
+
+    pre {
+      white-space: pre-wrap;   /* يحافظ على السطور */
+      word-wrap: break-word;
+      line-height: 1.9;
+      font-size: 15px;
+      color: #111827;
+    }
+
+    footer {
+      text-align: center;
+      padding: 15px;
+      font-size: 13px;
+      color: #6b7280;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>📘 Technical Writing Reports</h1>
+  <p>عرض المحتوى الكامل من ملف نصي</p>
+</header>
+
+<div class="container">
+  <pre id="content">⏳ جاري تحميل المحتوى...</pre>
+</div>
+
+<footer>
+  © عرض احترافي لمحتوى TXT
+</footer>
+
+<script>
+  fetch("تقارير.txt")
+    .then(response => response.text())
+    .then(text => {
+      document.getElementById("content").textContent = text;
+    })
+    .catch(() => {
+      document.getElementById("content").textContent =
+        "❌ لم يتم تحميل ملف تقارير.txt";
+    });
+</script>
+
+</body>
+</html>
