@@ -89,21 +89,21 @@ fetch("تقارير.txt")
     const container = document.getElementById("chapters");
     container.innerHTML = "";
 
-    // تقسيم النص حسب Chapters
-    const parts = text.split(/(?=📘 Chapter)/g);
+    // تقسيم النص عند كل Chapter رقم
+    const parts = text.split(/(?=Chapter\s+\d+)/g);
 
     parts.forEach(part => {
       if (part.trim() === "") return;
 
-      const titleMatch = part.match(/📘 Chapter[^\n]*/);
-      const title = titleMatch ? titleMatch[0] : "Chapter";
+      // عنوان الشابتر = أول سطر فيه كلمة Chapter
+      const firstLine = part.trim().split("\n")[0];
 
       const chapter = document.createElement("div");
       chapter.className = "chapter";
 
       const header = document.createElement("div");
       header.className = "chapter-header";
-      header.innerHTML = `<span>${title}</span><span>＋</span>`;
+      header.innerHTML = `<span>${firstLine}</span><span>＋</span>`;
 
       const content = document.createElement("div");
       content.className = "chapter-content";
@@ -111,12 +111,13 @@ fetch("تقارير.txt")
 
       header.addEventListener("click", () => {
         const open = content.style.display === "block";
+
         document.querySelectorAll(".chapter-content").forEach(c => c.style.display = "none");
-        document.querySelectorAll(".chapter-header").forEach(h => h.classList.remove("open"));
+        document.querySelectorAll(".chapter-header span:last-child").forEach(i => i.textContent = "＋");
 
         if (!open) {
           content.style.display = "block";
-          header.classList.add("open");
+          header.querySelector("span:last-child").textContent = "−";
         }
       });
 
