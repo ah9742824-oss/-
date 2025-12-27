@@ -89,6 +89,11 @@ fetch("تقارير.txt")
     const container = document.getElementById("chapters");
     container.innerHTML = "";
 
+    
+  console.log("عدد الكلمات:", fullText.split(/\s+/).length);
+
+
+    
     // تقسيم النص عند كل Chapter رقم
     const parts = text.split(/(?=Chapter\s+\d+)/g);
 
@@ -135,7 +140,6 @@ fetch("تقارير.txt")
 
 
 
-  console.log("عدد الكلمات:", fullText.split(/\s+/).length);
 </script>
 
 </body>
