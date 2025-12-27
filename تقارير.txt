@@ -1,0 +1,1079 @@
+
+&#128216; Chapter 1 – Technical Writing
+
+
+1️⃣ **ما هي الكتابة التقنية؟
+
+What is Technical Writing?**
+
+Technical writing هي أسلوب كتابة يُستخدم لنقل معلومات تقنية أو علمية بطريقة:
+
+واضحة (Clear)
+
+دقيقة (Accurate)
+
+مباشرة (Direct)
+
+مختصرة (Concise)
+
+
+&#128204; الهدف الأساسي:
+
+&gt; To communicate technical information clearly to a specific audience.
+نقل معلومات تقنية لجمهور محدد بدون مبالغة أو رأي شخصي.
+
+---
+
+2️⃣ **فئات الكتابة التقنية
+
+Categories of Technical Writing**
+
+تنقسم الكتابة التقنية إلى أربع فئات رئيسية:
+
+1. Reports &amp; Correspondence
+تقارير – مذكرات – إيميلات – خطابات رسمية
+
+
+2. Scientific Papers &amp; Theses
+أبحاث علمية – مقالات – رسائل ماجستير ودكتوراه
+
+
+3. Patents
+براءات الاختراع (دقيقة جداً قانونياً وتقنياً)
+
+
+4. Manuals &amp; Instructions
+كتيبات التشغيل – إرشادات الاستخدام
+
+
+&#128204; القصص والروايات ليست كتابة تقنية.
+
+---
+
+3️⃣ **خصائص الكتابة التقنية
+
+Characteristics of Technical Writing**
+
+&#128313; أهم 10 خصائص:
+
+English	عربي
+
+Technical	مرتبطة بمجال تقني
+Purpose-driven	لها غرض واضح
+Objective	موضوعية
+Data-based	مبنية على بيانات
+Impersonal	غير شخصية
+Concise	مختصرة
+Audience-oriented	موجهة لجمهور محدد
+Structured	لها تنظيم وشكل
+Archival	قابلة للأرشفة
+Cited	تعترف بمصادر الآخرين
+
+---
+
+4️⃣ **لماذا الكتابة التقنية Impersonal؟
+
+Why is Technical Writing Impersonal?**
+
+لأنها:
+
+لا تستخدم (I – We – My)
+
+لا تعتمد على رأي الكاتب
+
+تركز على الحقائق والنتائج
+
+
+&#128204; الهدف:
+
+&gt; To appear professional and objective.
+
+---
+
+5️⃣ الفرق بين Purpose و Objective
+
+Purpose	Objective
+
+سبب الكتابة	الهدف النهائي
+لماذا أكتب؟	ماذا أحقق؟
+Explain / Inform	Improve / Reduce / Increase
+
+---
+6️⃣ Archival Writing
+
+الكتابة التقنية:
+
+تُحفظ للرجوع إليها لاحقاً
+
+تُستخدم في اتخاذ قرارات مستقبلية
+
+ليست للاستهلاك المؤقت
+
+---
+
+7️⃣ **هيكل التقرير التقني
+
+Technical Report Structure**
+
+1. Introduction → لماذا؟
+
+2. Procedures → ماذا فعلت؟
+
+3. Results → ماذا حدث؟
+
+4. Discussion → ماذا تعني النتائج؟
+
+5. Conclusions → ماذا تعلمنا؟
+
+6. Recommendations → ماذا نفعل بعد ذلك؟
+
+..........................................................................................
+
+&#128216; Chapter 2 – Successful Writing 
+
+1️⃣ **فكرة الشابتر الأساسية
+
+Main Idea of the Chapter**
+
+الكتابة الناجحة مش خطوة واحدة، لكنها عملية منظمة من خمس مراحل:
+
+&gt; Preparation → Research → Organization → Writing → Revision
+
+يعني:
+تحضير → بحث → تنظيم → كتابة → مراجعة
+
+
+---
+
+2️⃣ Preparation – التحضير
+
+أهم مرحلة، ولو اتعملت صح باقي الشغل بيبقى أسهل.
+
+تشمل 4 عناصر رئيسية:
+
+1. Purpose (الغرض)
+
+لماذا أكتب؟
+
+Example:
+
+Bad: Write a report about cities
+
+Good: Compare three cities to choose the best one
+
+
+
+
+---
+
+2. Audience (الجمهور)
+
+مين اللي هيقرأ؟
+
+مستواه العلمي؟
+
+موقفه من الموضوع (مؤيد / معارض)؟
+
+
+&#128204; الكتابة تتغير حسب القارئ.
+
+
+---
+
+3. Scope (النطاق)
+
+ما الذي سيتم تضمينه؟
+
+ما الذي سيتم استبعاده؟
+
+
+&#128204; تحديد النطاق يمنع الإطالة غير الضرورية.
+
+4. Medium (وسيلة الاتصال)
+
+Email
+
+Report
+
+Presentation
+
+Face-to-face meeting
+
+
+&#128204; اختيار الوسيلة الصح يوفر وقت وجهد.
+
+
+3️⃣ Research – البحث
+نوعان من البحث:
+
+&#128313; Primary Research
+
+Interviews
+
+Surveys
+
+Experiments
+
+Observations
+
+
+&#128204; بيانات خام.
+
+&#128313; Secondary Research
+
+Books
+
+Journals
+
+Online databases
+
+Previous reports
+
+
+&#128204; بيانات محللة مسبقاً.
+
+
+4️⃣ Organization – التنظيم
+
+تنظيم الأفكار قبل الكتابة.
+
+طرق التنظيم:
+
+Chronological (زمني)
+
+General → Specific
+
+Cause → Effect
+
+
+Outlining:
+
+تقسيم الموضوع لأجزاء واضحة
+
+كل فكرة في مكانها
+
+
+5️⃣ Writing – الكتابة
+
+كتابة المسودة الأولى بدون قلق
+
+التركيز على الأفكار مش القواعد
+
+يُفضّل كتابة المقدمة في الآخر
+
+
+&#128204; الهدف: إخراج الأفكار على الورق.
+
+...
+
+6️⃣ Revision – المراجعة
+
+أهم مرحلة بعد الكتابة.
+
+تمر بمرحلتين:
+
+1. Big picture
+
+الوحدة
+
+التماسك
+
+وضوح الأفكار
+
+
+2. Details
+
+Grammar
+
+Spelling
+
+Punctuation
+
+
+
+
+&#128204; المراجعة = تحسين مش مجرد تصحيح.
+
+
+---
+
+7️⃣ نصائح امتحانية مهمة
+
+Preparation هي أهم خطوة
+
+Audience دايماً محور الكتابة
+
+Research مش كله إنترنت
+
+Revision مش مرة واحدة
+
+
+..........................................................................................
+-
+
+&#128216; Chapter 3 – Technical Writing Rules
+
+الجزء الأول (Part 1)
+
+(اللغة – الوضوح – التنسيق – الأشكال والجداول)
+
+
+---
+
+1️⃣ **لغة الكتابة التقنية
+
+Language of Technical Writing**
+
+&#128313; خصائص اللغة:
+
+واضحة (Clear)
+
+مباشرة (Direct)
+
+رسمية (Formal)
+
+دقيقة (Accurate)
+
+
+❌ تجنب:
+
+اللغة العامية
+
+الاختصارات (I’m, don’t)
+
+الأمثال (Clichés)
+
+المبالغة
+
+
+&#128204; استخدم:
+
+كلمات بسيطة
+
+أفعال قوية (discover, determine)
+
+
+
+---
+
+2️⃣ Active vs Passive Voice
+
+&#128313; Active Voice (مفضل):
+
+&gt; The engineer tested the system.
+
+
+
+أوضح
+
+أقوى
+
+يحدد المسؤول
+
+
+&#128313; Passive Voice (محدود الاستخدام):
+
+&gt; The system was tested.
+
+
+
+&#128204; يُستخدم فقط لو:
+
+الفاعل غير مهم
+
+غير معروف
+
+
+
+---
+
+3️⃣ **Clarity &amp; Sentence Structure
+
+الوضوح وتركيب الجملة**
+
+قواعد مهمة:
+
+تجنب الجمل الطويلة جداً
+
+كل جملة = فكرة واحدة
+
+مرجع الضمير لازم يكون واضح
+
+
+❌ غموض:
+
+&gt; This caused an error.
+✔️ صح: This calculation caused an error.
+
+
+
+
+---
+
+4️⃣ Consistency – الاتساق
+
+لازم يكون ثابت في التقرير كله:
+
+الخط (Font)
+
+الحجم (Size)
+
+العناوين
+
+المسافات
+
+
+&#128204; مثال شائع:
+
+Text: 12
+
+Subheading: 14 bold
+
+Heading: 16 bold
+
+
+
+---
+
+5️⃣ **Figures &amp; Tables
+
+الأشكال والجداول**
+
+&#128313; الهدف:
+
+توضيح الفكرة
+
+اختصار الكلام
+
+
+قواعد مهمة:
+
+كل شكل له رقم وعنوان
+
+عنوان الشكل تحت
+
+عنوان الجدول فوق
+
+الإشارة إليه في النص قبل ظهوره
+
+
+&#128204; 2D أفضل من 3D
+&#128204; استخدم جدول لو البيانات أكتر من 3–4 عناصر
+
+
+---
+
+6️⃣ Do &amp; Don’t (امتحاني جداً)
+
+✔️ Do:
+
+استخدم Active voice
+
+استخدم 2D graphs
+
+اشرح الشكل في النص
+
+
+❌ Don’t:
+
+تعتمد على اللون فقط
+
+تحط شكل بدون ذكره
+
+تستخدم لغة شخصية
+
+
+..........................................................................................
+
+
+&#128216; Chapter 3 – Part 2: Grammar, Punctuation, and Peer Review
+
+1️⃣ Grammar – القواعد النحوية الأساسية
+
+&#128313; Agreement / توافق الفعل والفاعل
+
+الفعل لازم يتوافق مع الفاعل في العدد (مفرد/جمع).
+
+الكلمات الموجودة بين الفاعل والفعل لا تغير صيغة الفعل.
+
+
+&gt; Example:
+Correct: The manager, along with his assistants, is responsible.
+Incorrect: The manager, along with his assistants, are responsible.
+
+
+
+عند استخدام and → الفعل غالباً جمع
+
+عند استخدام or / nor → الفعل يتوافق مع الاسم الأقرب.
+
+
+
+---
+
+&#128313; Pronouns – الضمائر
+
+حالات الضمائر:
+
+Nominative (رفع) → I, we, they → كفاعل
+
+Objective (نصب/جر) → me, us, them → كمفعول به
+
+Possessive (ملكية) → its, theirs
+
+
+توافق الضمير مع المرجع (antecedent) مهم.
+
+الأسماء الجماعية غالباً تعامل كفرد → its
+
+
+
+---
+
+&#128313; Acronyms &amp; Compound Words – الاختصارات والكلمات المركبة
+
+عند استخدام اختصار لأول مرة: اكتب الاسم كامل متبوعاً بالاختصار بين قوسين.
+
+الكلمات المركبة: استخدم Hyphen عند الربط مثل: 7-hour day، e-mail
+
+
+
+---
+
+&#128313; Capitalization &amp; Numbers – الحروف الكبيرة والأرقام
+
+Capital letters: أسماء محددة، مناصب قبل الاسم، جهات البوصلة (The East)
+
+Numbers:
+
+بالأحرف: 1–10، بداية الجملة، الكسور الشائعة
+
+بالأرقام: أكبر من 10، القيم الدقيقة (درجة حرارة، مبالغ مالية، قياسات)
+
+
+
+
+---
+
+2️⃣ Punctuation – علامات الترقيم
+
+&#128313; Comma – الفاصلة
+
+للفصل بين عناصر القائمة
+
+بعد الكلمات الافتتاحية (In general, However)
+
+قبل أدوات الربط بين جملتين مستقلتين
+
+بعد العبارات الظرفية أو الفعلية الافتتاحية
+
+
+&#128313; Colon – النقطتان الرأسيتان
+
+ربط الأفكار بشرط أن تكون الجملة قبلها كاملة
+
+تقديم قائمة أو جملة شارحة
+
+
+&#128313; Semicolon – الفاصلة المنقوطة
+
+قبل الظروف الانتقالية (however, therefore)
+
+بين جملتين مستقلتين مرتبطتين
+
+في القوائم المعقدة
+
+
+&#128313; Apostrophes – الفاصلة العليا
+
+للدلالة على الملكية (Sue's notebook)
+
+الجمع المنتظم: boys' accounts
+
+الجمع غير المنتظم: men's hair
+
+لا تستخدم لجمع الأرقام أو الاختصارات
+
+
+&#128313; Quotation marks &amp; Parentheses – علامات التنصيص والأقواس
+
+النقطة والفاصلة داخل علامات التنصيص
+
+الفاصلة المنقوطة والنقطتان خارج علامات التنصيص
+
+علامة الاستفهام داخل إذا كانت جزء من الاقتباس
+
+
+
+---
+
+3️⃣ Peer Review – مراجعة الأقران
+
+&#128313; Importance
+
+جزء أساسي من الاحترافية في الكتابة التقنية
+
+تساعد على تحسين المحتوى، وضمان الدقة
+
+
+&#128313; How to request
+
+طلب تعليقات إيجابية وسلبية مع شرح الأسباب
+
+ضع أرقام الأسطر لتسهيل الإشارة للملاحظات
+
+
+&#128313; Handling feedback
+
+تقبل الملاحظات التي تحسن الرسالة
+
+اشكر المراجع على مساعدته
+
+
+
+
+4️⃣ Summary / الملخص
+
+Topic	Key Points
+
+Grammar	Subject-verb agreement, pronouns, acronyms
+Capitalization &amp; Numbers	Rules for proper nouns and when to write numbers as words
+Punctuation	Commas, colons, semicolons, apostrophes, quotation marks
+Peer Review	Ask for feedback, provide checklist, handle comments professionally
+
+
+
+..........................................................................................
+
+
+&#128221; Chapter 4 – Laboratory Reports
+
+1. Introduction – المقدمة
+
+عربي: الهدف الرئيسي من تقرير المختبر هو تلخيص الغرض والنتائج من تجربة معينة. إذا كان المطلوب Pre-Lab Report، يجب إعداده قبل التجربة ويشمل: صفحة الغلاف، المعدات، إجراءات التشغيل، السلامة، والتحليل النظري.
+
+English: The main purpose of a lab report is to summarize the purpose and results of an experiment. A Pre-Laboratory Report should be prepared before performing the experiment, including title page, equipment, procedures, safety, and theoretical analysis.
+
+
+
+---
+
+2. Front Matter – الأمور الأمامية
+
+Arabic: ترقم بالأرقام الرومانية الصغيرة (i, ii, iii) وتشمل:
+
+1. Title Page – صفحة العنوان: عنوان التجربة، اسم المقرر، التاريخ، أسماء المؤلفين.
+
+
+2. Executive Summary – الملخص التنفيذي: ملخص بصيغة الماضي يشمل الخلفية، الغرض، المواد والأساليب، النتائج المهمة، الاستنتاجات، والتوصيات.
+
+
+3. Nomenclature – التسميات: قائمة بجميع الرموز مرتبة أبجدياً.
+
+
+4. Acronyms &amp; Initialisms – الاختصارات: تعريف كل الاختصارات المستخدمة.
+
+
+5. Measurement Abbreviations – اختصارات القياس: قائمة الوحدات المستخدمة (°C, m, s).
+
+
+
+English:
+
+1. Title Page: Experiment title, course name, date, and author names.
+
+
+2. Executive Summary: A past-tense summary covering background, purpose, materials/methods, key results, conclusions, and recommendations.
+
+
+3. Nomenclature: Alphabetical list of all symbols used.
+
+
+4. Acronyms &amp; Initialisms: Define all abbreviations used.
+
+
+5. Measurement Abbreviations: List units of measurement (°C, m, s).
+
+
+
+
+
+---
+
+3. Report Text – نص التقرير
+
+Arabic: يُرقم بالأرقام العربية ويحتوي على:
+
+1. Background – الخلفية: معلومات تهيئ القارئ لفهم التجربة.
+
+
+2. Experimental Equipment and Procedures – المعدات والإجراءات: وصف مختصر للأجهزة وخطوات التجربة.
+
+
+3. Theoretical Analysis – التحليل النظري: المعادلات الرياضية للتنبؤ بسلوك النظام، تبدأ بالعلاقات العامة ثم الصيغ المحددة.
+
+
+4. Results – النتائج: عرض البيانات بطريقة منطقية باستخدام جداول ورسوم بيانية، بدون تحليل.
+
+
+5. Discussion – المناقشة: تحليل النتائج، مقارنة بالتوقعات النظرية، تقييم موثوقية البيانات، شرح الاختلافات، الأخطاء المحتملة، الظواهر غير المتوقعة.
+
+
+6. Conclusions and Recommendations – الاستنتاجات والتوصيات: استنتاجات قصيرة مرتبة حسب الأهمية، وتقديم نصائح مستقبلية.
+
+
+7. References – المراجع: توثيق المصادر والمواصفات الفنية.
+
+
+
+English:
+
+1. Background: Provide context for the experiment.
+
+
+2. Experimental Equipment and Procedures: Brief description of equipment and steps followed.
+
+
+3. Theoretical Analysis: Equations predicting system behavior; general relationships → specific formulas.
+
+
+4. Results: Present data logically with tables/graphs; do not analyze here.
+
+
+5. Discussion: Analyze results, compare with theory, assess reliability, explain discrepancies, errors, unexpected phenomena.
+
+
+6. Conclusions and Recommendations: Concise conclusions ranked by importance, provide recommendations for future work.
+
+
+7. References: Document all sources and technical standards.
+
+
+
+
+
+---
+
+4. Appendices – الملاحق
+
+Arabic: لتضمين المواد التي قد تعيق تدفق التقرير الرئيسي لكنها ضرورية للتوثيق:
+
+البيانات الخام (Raw Data)
+
+الحسابات الطويلة أو المعقدة
+
+الاشتقاقات الرياضية المفصلة
+
+
+التنسيق: تُسمى الملاحق بأحرف كبيرة (Appendix A, B…) وترقم صفحاتها A1, A2…
+
+English: To include materials that may interrupt the main flow but are necessary for documentation:
+
+Raw data
+
+Long or sample calculations
+
+Detailed mathematical derivations
+
+
+Formatting: Appendices are labeled with capital letters (Appendix A, B…) and page numbers like A1, A2…
+
+
+
+..........................................................................................
+
+
+
+
+&#128221; Chapter 5 – Engineering Design Reports
+
+1. Introduction – المقدمة
+
+عربي: التقرير الهندسي هو وثيقة تجمع معلومات من التجارب، المحاكاة، أو تصميم لتقديمها للآخرين. عند إعداده للعميل، يجب إرفاق Transmittal Letter – خطاب الإرسال لتوضيح الإجراءات المطلوبة وشكر العميل.
+
+خطوات بدء التقرير تشمل: مقابلة العميل، مراجعة الأدبيات السابقة، دراسة معايير الصناعة، تحديد أهداف قابلة للقياس، تطوير المخططات، وتحضير خطة إدارة المشروع.
+
+English: An engineering design report collects information from experiments, simulations, or designs to present to others. When prepared for a client, a Transmittal Letter should be attached to clarify required actions and thank the client.
+
+Steps to start: interview the client, review prior literature, study industry standards, set measurable objectives, develop schematics, and prepare a project management plan.
+
+
+
+---
+
+2. Front Matter – الأمور الأمامية
+
+ترقم بالأرقام الرومانية الصغيرة (i, ii, iii) وتشمل:
+
+1. Title Page – صفحة العنوان: عنوان مختصر (7–8 كلمات)، اسم المقرر، التاريخ، وأسماء المؤلفين.
+
+
+2. Executive Summary – الملخص التنفيذي: يلخص الأهداف، النتائج الرئيسية، والتوصيات بطريقة قابلة للفهم بدون قراءة التقرير الكامل.
+
+
+3. Acknowledgements – شكر وتقدير: لتقديم الشكر للرعاة أو المستشارين.
+
+
+4. Table of Contents &amp; Lists of Figures/Tables – جدول المحتويات وقوائم الأشكال والجداول: لتسهيل الوصول للمعلومات.
+
+
+5. Nomenclature &amp; Abbreviations – المصطلحات والاختصارات: ترتيب الرموز أبجدياً وتعريف الوحدات والاختصارات المستخدمة.
+
+
+
+English:
+
+1. Title Page: Short title (7–8 words), course name, date, author names.
+
+
+2. Executive Summary: Summarizes objectives, key results, and recommendations; understandable without reading the full report.
+
+
+3. Acknowledgements: Thank sponsors or advisors.
+
+
+4. Table of Contents &amp; Lists of Figures/Tables: Ease of navigation.
+
+
+5. Nomenclature &amp; Abbreviations: Alphabetical list of symbols, define units and abbreviations.
+
+
+
+
+
+---
+
+3. Report Text – نص التقرير
+
+Arabic: يُرقم بالأرقام العربية ويشمل:
+
+1. Background – الخلفية: تلخيص المعلومات المعروفة والدراسات السابقة ذات الصلة بالمشروع.
+
+
+2. Problem Statement and Objectives – بيان المشكلة والأهداف: صياغة المشكلة وفق احتياجات العميل ووضع أهداف محددة وقابلة للقياس.
+
+
+3. Alternative Selection – اختيار البدائل: وصف البدائل الممكنة، مقارنة النتائج، استخدام جدول لتوضيح المعايير.
+
+
+4. Project Design – تصميم المشروع: وصف المنهجية المتبعة وتوضيح البيانات بما يكفي لفريق آخر لإعادة العمل.
+
+
+5. Results – النتائج: عرض النتائج بطريقة منطقية ومختصرة باستخدام الجداول والرسوم البيانية.
+
+
+6. Economic Analysis – التحليل الاقتصادي للبدائل: دراسة تكلفة دورة الحياة (رأس المال، التشغيل، الصيانة) وحساب فترة استرداد التكاليف (Payback period).
+
+
+7. Conclusions and Recommendations – الاستنتاجات والتوصيات: عرض البديل المختار وتكلفته النهائية، واقتراح تجارب إضافية إذا لزم الأمر.
+
+
+
+English:
+
+1. Background: Summarize known information and prior studies relevant to the project.
+
+
+2. Problem Statement and Objectives: Define the problem based on client needs and set measurable goals.
+
+
+3. Alternative Selection: Describe possible alternatives, compare results, preferably using a table.
+
+
+4. Project Design: Describe methodology and provide enough details for replication.
+
+
+5. Results: Present findings logically and concisely using tables/graphs.
+
+
+6. Economic Analysis: Life-cycle cost study (capital, operation, maintenance) and calculate payback period.
+
+
+7. Conclusions and Recommendations: Present selected alternative, final cost, and suggest further tests if needed.
+
+
+
+
+
+---
+
+4. References – المراجع
+
+Arabic: توثيق جميع المصادر لمنع الانتحال العلمي. يتم استخدام نظام (المؤلف-التاريخ) داخل النص، وترتيب المراجع أبجدياً حسب اسم العائلة. يشمل الكتب، المقالات العلمية، القوانين الحكومية، والمواقع الإلكترونية.
+
+English: Document all sources to avoid plagiarism. Use author-date system in text; arrange references alphabetically by author’s last name. Include books, scientific articles, government regulations, and websites.
+
+
+
+---
+
+5. Appendices – الملاحق
+
+Arabic: تضم المواد الداعمة التي لا تؤثر على فهم التقرير الأساسي مباشرة، مثل:
+
+البيانات الخام (Raw Data)
+
+الحسابات اليدوية النموذجية
+
+المخططات التفصيلية
+
+
+التنسيق: تسمى الملاحق بأحرف كبيرة (Appendix A, B…) وترقم صفحاتها (A1, B1…).
+
+English: Include supporting materials not necessary for understanding the main report, e.g.:
+
+Raw data
+
+Sample manual calculations
+
+Detailed schematics
+
+
+Formatting: Label appendices with capital letters (Appendix A, B…) and page numbers like A1, B1…
+
+
+
+..........................................................................................
+
+
+&#128221; Chapter 6 – Forms of Communication / أشكال التواصل
+
+1. E-mail – البريد الإلكتروني
+
+عربي:
+
+البريد الإلكتروني وسيلة شائعة للتواصل الرسمي، ويجب التعامل معه بحذر لأنه سجل دائم قد يُستخدم قانونياً.
+
+المحتوى والهيكل: كتابة Subject Line واضح يحدد الإجراء المطلوب، ووضع المعلومات المهمة في البداية.
+
+الاحترافية: استخدام قواعد لغوية صحيحة، تجنب الكتابة بالـ ALL CAPS لأنها تعني الصراخ.
+
+التوقيع: تضمين معلومات الاتصال البديلة (رقم الهاتف، العنوان).
+
+المرفقات: الأفضل وضع المعلومات في نص الرسالة؛ التأكد من قدرة الطرف الآخر على فتح المرفقات.
+
+قبل الإرسال: عند إرسال طلب وظيفة أو رسالة مهمة، يُنصح بتركها ساعة ثم مراجعتها، أو جعل صديق يراجعها.
+
+تحذير: البريد الإلكتروني لا يحل محل الحوار المباشر أو التقارير الرسمية.
+
+
+English:
+
+E-mail is a common professional communication tool and must be handled carefully, as it is a permanent record and may have legal implications.
+
+Content &amp; Structure: Clear Subject Line, place key information first.
+
+Professionalism: Correct grammar; avoid ALL CAPS.
+
+Signature: Include alternative contact information.
+
+Attachments: Prefer putting info in the email body; ensure recipient can open attachments.
+
+Before Sending: Wait an hour to review or have a friend check.
+
+Warning: Email does not replace face-to-face discussion or official reports.
+
+
+
+
+---
+
+2. Progress Reports – تقارير التقدم
+
+عربي:
+
+تعرض حالة المهام في أي بيئة عمل.
+
+العناصر المطلوبة: التاريخ، اسم المستشار، نسخ للمهتمين، سطر موضوع واضح (مثل I-PR3).
+
+المحتوى:
+
+1. الإنجازات الفردية أو الجماعية مع مقارنة بالجدول الزمني وذكر أسباب التأخير.
+
+
+2. الإنجازات المخطط لها للفترة القادمة، مع تحديد المهام الحرجة والمعدات المطلوبة.
+
+
+3. الصعوبات التقنية التي تحتاج مساعدة أو موارد إضافية.
+
+
+4. تحديث خطة إدارة المشروع وإرفاق النسخة المحدثة.
+
+
+
+
+English:
+
+Reports that present the status of tasks in any workplace.
+
+Required Elements: Date, technical advisor, copies to interested parties, clear subject line (e.g., I-PR3).
+
+Content:
+
+1. Individual or team achievements vs. schedule, with reasons for delays.
+
+
+2. Planned tasks for next period, critical tasks, and required equipment.
+
+
+3. Technical difficulties needing support/resources.
+
+
+4. Updated project management plan attached.
+
+
+
+
+
+
+---
+
+3. Presentations – العروض التقديمية
+
+عربي:
+
+التحضير البصري: استخدام رؤوس أقلام، صور، ورسوم بيانية بسيطة يمكن رؤيتها من مسافة.
+
+الأداء والإلقاء: التدرب جيداً، عدم القراءة من الأوراق أو الشرائح، التواصل البصري، والتحدث بصوت واضح.
+
+الهيكل: بدءاً من الخلفية → المشكلة والأهداف → النتائج → التوصيات → الإجابة على الأسئلة بموضوعية.
+
+
+English:
+
+Visual Preparation: Use bullet points, simple images/graphs readable from afar.
+
+Performance &amp; Delivery: Practice; avoid reading slides; maintain eye contact; speak clearly.
+
+Structure: Background → Problem &amp; Objectives → Results → Recommendations → Q&amp;A.
+
+
+
+
+---
+
+4. Abstracts – الملخصات البحثية
+
+عربي:
+
+نص مستقل ومختصر (حد أقصى 250 كلمة) للاهتمام بالورقة البحثية أو العرض.
+
+الخصائص: شاملاً ومكتفياً بذاته، بدون اختصارات أو مراجع لصور/جداول.
+
+الزمن: يكتب بصيغة الماضي.
+
+المكونات: أهداف البحث، نطاقه، المنهجية، النتائج، الاستنتاجات، والآثار المترتبة.
+
+
+English:
+
+Independent, concise text (max 250 words) highlighting a research paper or presentation.
+
+Characteristics: Complete in itself, no abbreviations, no references to figures/tables.
+
+Tense: Past tense.
+
+Components: Research objectives, scope, methodology, results, conclusions, and implications.
+
+
+..........................................................................................
