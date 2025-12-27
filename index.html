@@ -90,10 +90,6 @@ fetch("تقارير.txt")
     container.innerHTML = "";
 
     
-  console.log("عدد الكلمات:", fullText.split(/\s+/).length);
-
-
-    
     // تقسيم النص عند كل Chapter رقم
     const parts = text.split(/(?=Chapter\s+\d+)/g);
 
@@ -130,6 +126,12 @@ fetch("تقارير.txt")
       chapter.appendChild(content);
       container.appendChild(chapter);
     });
+
+
+      console.log("عدد الكلمات:", fullText.split(/\s+/).length);
+
+
+    
   })
   .catch(() => {
     document.getElementById("chapters").innerHTML =
