@@ -669,7 +669,9 @@ English: The main purpose of a lab report is to summarize the purpose and result
 
 2. Front Matter – الأمور الأمامية
 
-Arabic: ترقم بالأرقام الرومانية الصغيرة (i, ii, iii) وتشمل:
+Arabic:
+
+ترقم بالأرقام الرومانية الصغيرة (i, ii, iii) وتشمل:
 
 1. Title Page – صفحة العنوان: عنوان التجربة، اسم المقرر، التاريخ، أسماء المؤلفين.
 
@@ -711,25 +713,21 @@ English:
 
 3. Report Text – نص التقرير
 
-Arabic: يُرقم بالأرقام العربية ويحتوي على:
+Arabic:
+
+يُرقم بالأرقام العربية ويحتوي على:
 
 1. Background – الخلفية: معلومات تهيئ القارئ لفهم التجربة.
 
-
 2. Experimental Equipment and Procedures – المعدات والإجراءات: وصف مختصر للأجهزة وخطوات التجربة.
-
 
 3. Theoretical Analysis – التحليل النظري: المعادلات الرياضية للتنبؤ بسلوك النظام، تبدأ بالعلاقات العامة ثم الصيغ المحددة.
 
-
 4. Results – النتائج: عرض البيانات بطريقة منطقية باستخدام جداول ورسوم بيانية، بدون تحليل.
-
 
 5. Discussion – المناقشة: تحليل النتائج، مقارنة بالتوقعات النظرية، تقييم موثوقية البيانات، شرح الاختلافات، الأخطاء المحتملة، الظواهر غير المتوقعة.
 
-
 6. Conclusions and Recommendations – الاستنتاجات والتوصيات: استنتاجات قصيرة مرتبة حسب الأهمية، وتقديم نصائح مستقبلية.
-
 
 7. References – المراجع: توثيق المصادر والمواصفات الفنية.
 
@@ -739,21 +737,15 @@ English:
 
 1. Background: Provide context for the experiment.
 
-
 2. Experimental Equipment and Procedures: Brief description of equipment and steps followed.
-
 
 3. Theoretical Analysis: Equations predicting system behavior; general relationships → specific formulas.
 
-
 4. Results: Present data logically with tables/graphs; do not analyze here.
-
 
 5. Discussion: Analyze results, compare with theory, assess reliability, explain discrepancies, errors, unexpected phenomena.
 
-
 6. Conclusions and Recommendations: Concise conclusions ranked by importance, provide recommendations for future work.
-
 
 7. References: Document all sources and technical standards.
 
@@ -765,7 +757,9 @@ English:
 
 4. Appendices – الملاحق
 
-Arabic: لتضمين المواد التي قد تعيق تدفق التقرير الرئيسي لكنها ضرورية للتوثيق:
+Arabic: 
+
+لتضمين المواد التي قد تعيق تدفق التقرير الرئيسي لكنها ضرورية للتوثيق:
 
 البيانات الخام (Raw Data)
 
@@ -776,7 +770,11 @@ Arabic: لتضمين المواد التي قد تعيق تدفق التقرير
 
 التنسيق: تُسمى الملاحق بأحرف كبيرة (Appendix A, B…) وترقم صفحاتها A1, A2…
 
-English: To include materials that may interrupt the main flow but are necessary for documentation:
+---
+
+English: 
+
+To include materials that may interrupt the main flow but are necessary for documentation:
 
 Raw data
 
@@ -848,31 +846,26 @@ English:
 
 
 
-
-
 ---
 
 3. Report Text – نص التقرير
 
-Arabic: يُرقم بالأرقام العربية ويشمل:
+Arabic:
+
+يُرقم بالأرقام العربية ويشمل:
 
 1. Background – الخلفية: تلخيص المعلومات المعروفة والدراسات السابقة ذات الصلة بالمشروع.
 
 
 2. Problem Statement and Objectives – بيان المشكلة والأهداف: صياغة المشكلة وفق احتياجات العميل ووضع أهداف محددة وقابلة للقياس.
 
-
 3. Alternative Selection – اختيار البدائل: وصف البدائل الممكنة، مقارنة النتائج، استخدام جدول لتوضيح المعايير.
-
 
 4. Project Design – تصميم المشروع: وصف المنهجية المتبعة وتوضيح البيانات بما يكفي لفريق آخر لإعادة العمل.
 
-
 5. Results – النتائج: عرض النتائج بطريقة منطقية ومختصرة باستخدام الجداول والرسوم البيانية.
 
-
 6. Economic Analysis – التحليل الاقتصادي للبدائل: دراسة تكلفة دورة الحياة (رأس المال، التشغيل، الصيانة) وحساب فترة استرداد التكاليف (Payback period).
-
 
 7. Conclusions and Recommendations – الاستنتاجات والتوصيات: عرض البديل المختار وتكلفته النهائية، واقتراح تجارب إضافية إذا لزم الأمر.
 
@@ -882,25 +875,17 @@ English:
 
 1. Background: Summarize known information and prior studies relevant to the project.
 
-
 2. Problem Statement and Objectives: Define the problem based on client needs and set measurable goals.
-
 
 3. Alternative Selection: Describe possible alternatives, compare results, preferably using a table.
 
-
 4. Project Design: Describe methodology and provide enough details for replication.
-
 
 5. Results: Present findings logically and concisely using tables/graphs.
 
-
 6. Economic Analysis: Life-cycle cost study (capital, operation, maintenance) and calculate payback period.
 
-
 7. Conclusions and Recommendations: Present selected alternative, final cost, and suggest further tests if needed.
-
-
 
 
 
@@ -908,8 +893,9 @@ English:
 
 4. References – المراجع
 
-Arabic: توثيق جميع المصادر لمنع الانتحال العلمي. يتم استخدام نظام (المؤلف-التاريخ) داخل النص، وترتيب المراجع أبجدياً حسب اسم العائلة. يشمل الكتب، المقالات العلمية، القوانين الحكومية، والمواقع الإلكترونية.
+Arabic:وثيق جميع المصادر لمنع الانتحال العلمي. يتم استخدام نظام (المؤلف-التاريخ) داخل النص، وترتيب المراجع أبجدياً حسب اسم العائلة. يشمل الكتب، المقالات العلمية، القوانين الحكومية، والمواقع الإلكترونية.
 
+ت
 English: Document all sources to avoid plagiarism. Use author-date system in text; arrange references alphabetically by author’s last name. Include books, scientific articles, government regulations, and websites.
 
 
@@ -918,7 +904,9 @@ English: Document all sources to avoid plagiarism. Use author-date system in tex
 
 5. Appendices – الملاحق
 
-Arabic: تضم المواد الداعمة التي لا تؤثر على فهم التقرير الأساسي مباشرة، مثل:
+Arabic: 
+
+تضم المواد الداعمة التي لا تؤثر على فهم التقرير الأساسي مباشرة، مثل:
 
 البيانات الخام (Raw Data)
 
