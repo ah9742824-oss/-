@@ -217,8 +217,8 @@ Experiments
 
 Observations
 
+&#128204; بيانات خام. - raw data
 
-&#128204; بيانات خام.
 
 &#128313; Secondary Research
 
@@ -231,7 +231,7 @@ Online databases
 Previous reports
 
 
-&#128204; بيانات محللة مسبقاً.
+&#128204; بيانات محللة مسبقاً. - information has been analyzed
 
 
 4️⃣ Organization – التنظيم
