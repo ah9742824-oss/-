@@ -87,16 +87,17 @@ Why is Technical Writing Impersonal?**
 &#128204; الهدف:
 
 &gt; To appear professional and objective.
+"للتصرّف بشكل مهني وموضوعي."
 
 ---
 
 5️⃣ الفرق بين Purpose و Objective
 
-Purpose	Objective
+Purpose	                            Objective
 
-سبب الكتابة	الهدف النهائي
-لماذا أكتب؟	ماذا أحقق؟
-Explain / Inform	Improve / Reduce / Increase
+سبب الكتابة                           	الهدف النهائي
+لماذا أكتب؟                           	         ماذا أحقق؟
+Explain / Inform	          Improve / Reduce / Increase
 
 ---
 6️⃣ Archival Writing
